@@ -16,8 +16,8 @@ container{
 panel { 
   display: flex;
   item-align: center;
-  height: 100vh;
-  width: 100vw;
+  height: 50vh;
+  width: 50vw;
 padding: 10%}
   
 panel p {
