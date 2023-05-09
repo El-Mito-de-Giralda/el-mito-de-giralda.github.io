@@ -2,3 +2,7 @@
 html{
   height: 100vh;
 background-color: #f0f8ff;}
+
+header p{
+  font-size: 10px;
+  font-family: 'Arial';}
