@@ -10,7 +10,7 @@ text-align: center;}
 
 panel { 
   display: flex;
-  justify-content: center;
+  item-align: center;
   height: 80vh;
   width: 70vw;}
   
