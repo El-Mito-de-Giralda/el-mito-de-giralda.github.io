@@ -1,13 +1,13 @@
 *{box-sizing: border-box;}
 
 html{
-  height: 100vh;
 background-color: aliceblue;}
 
-header{height: 20vh}
+header{height: 100px;
+margin: 10%;}
 
 header p{
-  font-size: 20px;
+  font-size: 45px;
   font-family: 'Dancing Script'; 
 text-align: center;}
 
@@ -22,9 +22,14 @@ panel {
   
 
 iframe{
-    height: 700px;
-    width: 800px;
+    height: 60vh;
+    width: 100%;
 }
 panel p {
   font-size: large;
   text-align: center;}
+
+  footer{
+    margin-bottom: 10%;
+    margin-top: 10%;
+  }
