@@ -12,7 +12,8 @@ panel {
   display: flex;
   item-align: center;
   height: 80vh;
-  width: 70vw;}
+  width: 70vw;
+padding: 10%}
   
 panel p {
   font-size: large;
