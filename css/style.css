@@ -41,7 +41,8 @@ iframe{
 }
 panel p {
   font-size: large;
-  text-align: center;}
+  text-align: center;
+font-family: "Arial";}
 
   footer{
     margin-bottom: 10%;
