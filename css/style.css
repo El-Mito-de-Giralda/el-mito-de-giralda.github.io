@@ -25,15 +25,13 @@ img{
   justify-content: center;
 }
 
-
-
 .panel { 
     height: 100%;
     width: 100%;}
   
 
 iframe{
-    height: 60vh;
+    height: 70vh;
     width: 100%;}
 
 .panel2 {
