@@ -66,6 +66,7 @@ padding: 10%}
   }
 
   .oeuvre{
+    vertical-align: top;
     height: 79vh;
     width: 90%;
     display: flex;
@@ -76,4 +77,10 @@ padding: 10%}
   .flecha {
     height: 7%;
     width: 18%;
+  }
+
+  .flechas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
