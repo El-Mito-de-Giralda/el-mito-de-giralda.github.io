@@ -25,13 +25,18 @@ img{
   justify-content: center;
 }
 
+
+
 .panel { 
     height: 100%;
-    width: 100%;}
+    width: 100%;
+    font-size: large;
+    text-align: center;
+  font-family: 'Dancing Script';}
   
 
 iframe{
-    height: 70vh;
+    height: 80vh;
     width: 100%;}
 
 .panel2 {
@@ -56,4 +61,25 @@ padding: 10%}
     0 0 10px 10px yellow;
     margin-bottom: 10px;
     margin-top: 10px;
+  }
+
+  .obra {
+    width: 100%;
+
+  }
+
+  .text{  height: 80vh;
+    width: 100%;
+    border: solid black 2px;
+    
+
+  }
+
+  .oeuvre{
+    vertical-align: top;
+    height: 79vh;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
