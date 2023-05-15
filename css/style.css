@@ -49,18 +49,11 @@ iframe{
 font-family: Arial, Helvetica, sans-serif;
 padding: 10%}
 
-  footer{
+  footer, footer p{
     margin-bottom: 10%;
     margin-top: 10%;
-  }
-
-  button {
-    font-family: 'Dancing Script'; 
-    background-color: aliceblue;
-    box-shadow: 0 0 5px 5px aqua,
-    0 0 10px 10px yellow;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
   }
 
   .obra {
@@ -70,9 +63,6 @@ padding: 10%}
 
   .text{  height: 80vh;
     width: 100%;
-    border: solid black 2px;
-    
-
   }
 
   .oeuvre{
@@ -82,4 +72,9 @@ padding: 10%}
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  .flecha {
+    height: 7%;
+    width: 18%;
   }
