@@ -217,8 +217,9 @@ text-align: center;}
       }
   }
 
-  @media only screen and (min-width: 1400px){
-    .text{  height: 80vh;
+
+  @media only screen and (min-width: 971px){
+    .text{  height: 100vh;
       width: 100%;
       display:flex;
       justify-content: center;
@@ -226,10 +227,26 @@ text-align: center;}
   
     .oeuvre{
       vertical-align: top;
-      height: 80vh;
-      width: 40%;
+      height: 100vh;
+      width: 60%;
+    }
+  }
+
+  @media only screen and (min-width: 1400px){
+    .text{  height: 100vh;
+      width: 100%;
+      display:flex;
+      justify-content: center;
+    }
+  
+    .oeuvre{
+      vertical-align: top;
+      height: 100vh;
+      width: 45%;
     }
     .panel2 {
     padding-bottom: 0%;}
 
   }
+
+ 
