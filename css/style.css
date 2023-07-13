@@ -90,23 +90,22 @@ text-align: center;}
     position: relative;
   }
 
-  .flecha {
-    height: 70%;
-    width: 70%;
-
-  }
-
   .flechas {
     display: flex;
-    align-content: center;
-    justify-content: center;
-  }
+    flex-wrap: wrap;}
 
-  .flechas2 {
-    display: flex;
-    align-content: center;
-    justify-content:center;
-  }
+    .flechas div{
+        margin: 20px;
+        font-family: "Dancing Script";
+        background-image: url("./images/Logo1.jpg");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        height: 66px;
+    width: 100px;
+    padding: 0%;
+    }
+
+
 
   .direccion{
     height: 50px;
@@ -187,30 +186,10 @@ text-align: center;}
       padding-right: 10%;
       padding-bottom: 5%;}
 
-      .flecha {
-        height: 90%;
-        width: 90%;
-    
-      }
-    
-      .flechas {
-        display: flex;
-        align-content: center;
-        justify-content: center;
-      }
-
-      .flechas2 {
-        display: flex;
-        align-content: center;
-        justify-content:center;
-      }
-    
-      .direccion{
-        height: 60px;
-        width: 120px;
-      }
-    
-  }  
+      .flechas div{
+        height: 100px;
+        width: 150px;
+  }  }
 
   @media only screen and (min-width: 971px){
     .panel2 p{
