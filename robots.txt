@@ -1,12 +1,2 @@
 User agent: *
 Crawl-Delay: 60
-Noindex: /index2.html
-Noindex: /index3.html
-Noindex: /index4.html
-Noindex: /index5.html
-Noindex: /index6.html
-Noindex: /index7.html
-Noindex: /index8.html
-Noindex: /index9.html
-Noindex: /index10.html
-Index: /index.html
