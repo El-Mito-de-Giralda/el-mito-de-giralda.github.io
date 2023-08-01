@@ -96,16 +96,16 @@ text-align: center;}
 
     .flechas div{
         margin: 20px;
-        font-family: "Dancing Script";
-        background-image: url("./images/logo.jpg");
-        background-size: 150px 100px;;
-        background-repeat: no-repeat;
         height: 66px;
     width: 100px;
     padding: 0%;
     }
 
-
+.flechas div img{
+        height: 66px;
+    width: 100px;
+    padding: 0%;
+    }
 
   .direccion{
     height: 50px;
@@ -189,7 +189,15 @@ text-align: center;}
       .flechas div{
         height: 100px;
         width: 150px;
-  }  }
+  } 
+  
+  .flechas div img{
+        height: 100px;
+    width: 150px;
+    padding: 0%;
+    }
+  
+  }
 
   @media only screen and (min-width: 971px){
     .panel2 p{
