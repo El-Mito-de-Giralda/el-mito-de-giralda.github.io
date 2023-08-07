@@ -107,6 +107,11 @@ text-align: center;}
     padding: 0%;
     }
 
+
+.flechas h2 {
+  width: 100%;
+}
+
   .direccion{
     height: 50px;
     width: 100px;
