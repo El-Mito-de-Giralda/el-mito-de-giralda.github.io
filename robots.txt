@@ -1,2 +1,11 @@
 User agent: *
 Crawl-Delay: 60
+Disallow: https://el-mito-de-giralda.github.io/capitulo2.html
+Disallow: https://el-mito-de-giralda.github.io/capitulo3.html
+Disallow: https://el-mito-de-giralda.github.io/capitulo4.html
+Disallow: https://el-mito-de-giralda.github.io/capitulo5.html
+Disallow: https://el-mito-de-giralda.github.io/capitulo6.html
+Disallow: https://el-mito-de-giralda.github.io/capitulo7.html
+Disallow: https://el-mito-de-giralda.github.io/capitulo8.html
+Disallow: https://el-mito-de-giralda.github.io/capitulo9.html
+Disallow: https://el-mito-de-giralda.github.io/capitulo10.html
