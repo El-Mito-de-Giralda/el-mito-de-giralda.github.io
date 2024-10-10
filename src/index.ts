@@ -1,4 +1,4 @@
-import "./mystyle.css";
+import "./mystyle.scss";
 
 const user = "John Doe";
 
