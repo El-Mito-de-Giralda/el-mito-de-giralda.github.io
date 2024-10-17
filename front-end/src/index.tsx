@@ -1,11 +1,13 @@
+import React from "react";
 import "./mystyle.scss";
-
+import { App } from "./app";
 import {createRoot} from "react-dom/client";
-import { ChapterContainer } from "./pods/ChapterContainer";
+
 
 const RootElement = document.getElementById("root");
 const root= createRoot(RootElement);
 
 root.render(
-    <ChapterContainer />
-)
+    <App />
+);
+    
