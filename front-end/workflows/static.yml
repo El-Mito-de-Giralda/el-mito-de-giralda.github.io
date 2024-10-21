@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang= "es">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>El mito de Giralda | Manga español hecho con herramientas de Word, iconos, imágenes y tipografías</title>
+    <meta name="description" content="Mezcla de guion de serie española y manga escrito para todo el mundo">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <meta name="robots" content="index, allow, follow">
+    <link href= "./css/style.css " type= "text/css" rel="stylesheet">
+    <meta name="google-site-verification" content="google43f8333de9b261ff" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="canonical" href="https://gergoth.github.io/el-mito-de-giralda/">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap" rel="stylesheet">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EQ95SF644F"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EQ95SF644F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EQ95SF644F');
+  
+</script>
+  </head>
+  <body>
+    <header>
+      <a href="./index.html">
+      <img src="./images/logo.png" alt="El Mito de Giralda">
+      <p>El Mito de <br>Giralda</p></a>
+    </header>
+    <div class="container">
+      <div class="panel2">
+        <p>Hola, lector. Este es mi proyecto más preciado y en el que he puesto más esfuerzo hasta ahora.
+            <br><br>
+          Es un intento de combinar una serie española con un manga/anime, con cosas de Word por el medio... 
+          Es un batiburrillo que he escrito porque encuentro el mundo de las series de
+          toda la vida y de los animes de hoy en día muy banales. Entretenimiento y poco más. 
+          <br><br>
+          Con el Mito de Giralda intento hacer algo que despunte como más interesante en temática y argumento. Ya me contarás
+          si ha funcionado o no. No te distraigo más. 
+          <br><br>
+          ¡Que aproveche y muchas gracias por entrar a la web!
+            </p>
+            </div>
+      <div class="panel">
+        <p>Introducción: parte 1</p>
+        <div class="obra">
+          <div class="text"><img src="./images/Manga Español El mito de Giralda (1).jpg" data-index="1" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (2).jpg" data-index="2" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (3).jpg" data-index="3" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (4).jpg" data-index="4" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (5).jpg" data-index="5" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (6).jpg" data-index="6" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (7).jpg" data-index="7" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (8).jpg" data-index="8" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (9).jpg" data-index="9" class="oeuvre" alt="cielo"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (10).jpg" data-index="10" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (11).jpg" data-index="11" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (12).jpg" data-index="12" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (13).jpg" data-index="13" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (14).jpg" data-index="14" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (15).jpg" data-index="15" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (16).jpg" data-index="16" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (17).jpg" data-index="17" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (18).jpg" data-index="18" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (19).jpg" data-index="19" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (20).jpg" data-index="20" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (21).jpg" data-index="21" class="oeuvre" alt="Comic"></div>
+  <div class="text"><img src="./images/Manga Español El mito de Giralda (22).jpg" data-index="22" class="oeuvre" alt="Comic"></div>
+        </div>
+        </div>
+        <div class="flechas">
+        <a href="index2.html"><img src="./images/Flecha.jpg" class="flecha"></a></div>
+        </div>
+
+      </div>
+    </div>
+  </body>
+</html>
