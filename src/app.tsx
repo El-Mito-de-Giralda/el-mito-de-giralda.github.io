@@ -10,6 +10,7 @@ import { SeventhChapterComponent } from "./pods/SeventhChapterComponent";
 import { EighthChapterComponent } from "./pods/EighthChapterComponent";
 import { NinethChapterComponent } from "./pods/NinethChapterComponent";
 import { TenthChapterComponent } from "./pods/TenthChapterComponent";
+import "./mystyle.scss";
 
 export const App = () => {
 console.log("Hola");
